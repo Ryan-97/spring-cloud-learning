@@ -6,4 +6,4 @@
   - Hystrix
   - Gateway
   - Spring Cloud Config
-  - Spring Cloud Bus　
+  - Spring Cloud Bus (待续)
