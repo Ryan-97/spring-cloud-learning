@@ -1,6 +1,5 @@
 package com.ryan.springcloud.controller;
 
-import com.alibaba.druid.support.logging.Log;
 import com.ryan.springcloud.entities.CommonResult;
 import com.ryan.springcloud.entities.Payment;
 import com.ryan.springcloud.service.PaymentService;

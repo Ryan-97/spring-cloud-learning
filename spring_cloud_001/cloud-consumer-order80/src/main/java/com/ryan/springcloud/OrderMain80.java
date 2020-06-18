@@ -1,9 +1,7 @@
 package com.ryan.springcloud;
 
-import com.ryan.myrule.MySelfRule;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.netflix.ribbon.RibbonClient;
 
 @SpringBootApplication
 //@RibbonClient(name = "CLOUD-PAYMENT-SERVICE",configuration = MySelfRule.class)

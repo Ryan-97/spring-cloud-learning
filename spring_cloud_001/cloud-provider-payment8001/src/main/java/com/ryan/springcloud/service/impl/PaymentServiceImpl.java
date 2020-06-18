@@ -4,7 +4,6 @@ import com.ryan.springcloud.dao.PaymentDao;
 import com.ryan.springcloud.entities.Payment;
 import com.ryan.springcloud.service.PaymentService;
 import org.apache.ibatis.annotations.Param;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
